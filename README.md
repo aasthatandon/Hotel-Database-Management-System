@@ -17,7 +17,7 @@ MySQL
 
 Files Overview :
 
-```Hotel_dbms_report.pdf``` :  Project Report
-```Hotel_dbms.pptx``` : Project Presentation
+```Hotel_dbms_report.pdf``` :  Project Report<br>
+```Hotel_dbms.pptx``` : Project Presentation<br>
 ```Project_code.sql```: Project code
 
